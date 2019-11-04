@@ -1,2 +1,4 @@
+[![Build Status](https://travis-ci.org/LohanDemarch/WebServerSpring.svg?branch=master)](https://travis-ci.org/LohanDemarch/WebServerSpring)
+
 # WebServerSpring
-Web server desenvolvido durante curso
+API desenvolvido durante curso para controle de ponto
